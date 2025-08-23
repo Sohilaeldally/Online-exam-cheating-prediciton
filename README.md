@@ -1,6 +1,6 @@
 # Online Exam Cheating Detection
 
-📌 **Project Overview**
+**Project Overview**
 
 Online Exam Cheating Detection is a computer vision project designed to detect whether a student is cheating or behaving normally during online exams. The system uses a **ResNet-34** model fine-tuned on a custom Roboflow dataset for accurate classification.
 
