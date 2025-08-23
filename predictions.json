@@ -1,0 +1,174 @@
+[
+    {
+        "frame_number": 1,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 2,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 3,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 4,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 5,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 6,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 7,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 8,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 9,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 10,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 11,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 12,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 13,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 14,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 15,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 16,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 17,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 18,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 19,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 20,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 21,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 22,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 23,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 24,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 25,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 26,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 27,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 28,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 29,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 30,
+        "prediction": "normal"
+    },
+    {
+        "frame_number": 31,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 32,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 33,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 34,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 35,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 36,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 37,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 38,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 39,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 40,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 41,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 42,
+        "prediction": "cheating"
+    },
+    {
+        "frame_number": 43,
+        "prediction": "cheating"
+    }
+]
