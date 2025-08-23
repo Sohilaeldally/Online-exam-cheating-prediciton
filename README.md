@@ -4,7 +4,7 @@
 
 Online Exam Cheating Detection is a computer vision project designed to detect whether a student is cheating or behaving normally during online exams. The system uses a **ResNet-34** model fine-tuned on a custom Roboflow dataset for accurate classification.
 
-The dataset was annotated and preprocessed on Roboflow, including data augmentation techniques such as rotations, flips, and color adjustments to improve model generalization. The model was trained on two classes:
+The dataset was preprocessed on Roboflow, including data augmentation techniques such as rotations, flips, and color adjustments to improve model generalization. The model was trained on two classes:
 
 - `normal`
 - `cheating`
