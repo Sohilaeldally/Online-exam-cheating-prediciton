@@ -8,7 +8,7 @@ Online Exam Cheating Detection is a computer vision project designed to detect w
 - Original dataset: 7,141 images  
 - After data augmentation: 14,343 images  
 - Labels: `normal` and `cheating`  
-- Preprocessing: resizing, normalization, rotations, flips, color adjustments  
+- Preprocessing: resizing, rotations, flips, and color adjustments  
 
 The trained model achieves a **validation accuracy of 95.4%** and is ready for deployment to monitor student behavior in real-time.
 
