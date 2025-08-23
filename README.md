@@ -17,6 +17,5 @@ All predictions are automatically saved in a **JSON file (`predictions.json`)**,
 
 - Track results over time  
 - Load predictions for further analysis  
-- Integrate easily with dashboards or other reporting tools  
 
 🔗 **Try the Model & View the Full Project:** [Roboflow - Online Exam Cheating Detection](https://app.roboflow.com/sohila-reda-82dmq/online-exam-cheating-detection-vkvle/models/online-exam-cheating-detection-vkvle/1)
