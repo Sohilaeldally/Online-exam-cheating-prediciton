@@ -1,0 +1,16 @@
+from inference_sdk import InferenceHTTPClient
+
+client = InferenceHTTPClient(
+    api_url="https://serverless.roboflow.com",
+    api_key="83Cqft9uQa0ZiERn2bSS"
+)
+
+result = client.run_workflow(
+    workspace_name="sohila-reda-82dmq",
+    workflow_id="custom-workflow-2",
+    images={
+        "image": "C:\Users\user\OneDrive\Desktop\cheating model 2\dataset\train\cheating\1_jpg.rf.7b993e29cae946c1ed7fbf1b64f69fa5.jpg"
+    },
+    use_cache=True # cache workflow definition for 15 minutes
+)
+print(result)
